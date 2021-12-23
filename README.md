@@ -18,7 +18,7 @@ INTEGRANTES:
 
 • Alvarado Nevárez Diego José
 
-PRÁCTICA No. 2 Analisis de Mallas
+PRÁCTICA No. 4 Teorema de superposicion
 
 Objetivos:
 
@@ -36,35 +36,31 @@ Especificos:
 
 Marco teorico:
 
-![](
+![](https://github.com/diego333jose/Laboratorio-4/blob/main/Imagenes/Diagrama%20en%20blanco%20(1).png)
 
-![](
+Calculos:
 
-![](
+![](https://github.com/diego333jose/Laboratorio-4/blob/main/Imagenes/Labo%204_page-0001.jpg)
 
-![](
+![](https://github.com/diego333jose/Laboratorio-4/blob/main/Imagenes/Labo%204_page-0002.jpg)
 
-![](
+Simulacion en Tinkercad:
 
-![](
+![](https://github.com/diego333jose/Laboratorio-4/blob/main/Imagenes/Labo%204_page-0003.jpg)
 
-![](
+![](https://github.com/diego333jose/Laboratorio-4/blob/main/Imagenes/Labo%204_page-0004.jpg)
 
-![](
+Tabla de resultados y porcentaje de error
 
-![](
-
-![](
-
-![](
+![](https://github.com/diego333jose/Laboratorio-4/blob/main/Imagenes/Labo%204_page-0005.jpg)
 
 Conclusiones:
 
-- El metodo de mallas es sumamente util al querer determinarla corriente de cualquier elemento dentro de un circuito
+- El teorema de superposicion es sumamente util al momento de realizar calculos en un circuitos con 2 o mas fuentes, ya sean estas de voltaje o corriente
 
-- Mediante la formacion de sistemas de ecuaciones se pudo encontrar la intensidad de corriente presente en las 3 malllas del circuito
+- Mediante la anulacion de las fuentes de corriente y trabajar cada una de forma independiente se pudo obtener el resultado total empleando el uso de la algebra
 
-- En los 3 analisis del circuito hechos durante todo el laboratorio, obtuvimos resultados similares comprobando asi la veracidad de los resultados
+- En los 2 analisis del circuito hechos durante todo el laboratorio, obtuvimos resultados similares comprobando asi la veracidad de los resultados
 
 Recomendaciones:
 
@@ -74,10 +70,11 @@ Recomendaciones:
 
 Referencias:
 
-- Método de las corrientes de mallas—EcuRed. (s. f.). Recuperado 22 de noviembre de 2021, de https://www.ecured.cu/M%C3%A9todo_de_las_corrientes_de_mallas
+- Teorema de superposición. (s. f.). Recuperado 22 de diciembre de 2021, de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm
 
 Link del video:
 
+- https://www.youtube.com/watch?v=jOL8nbTIn50
 
 
 
