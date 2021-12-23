@@ -66,8 +66,6 @@ Recomendaciones:
 
 - Tener un orden al momento de crear los circuitos con el proposito de no complicarse al momento de tener una falla y querrer corregirla
 
-- Si es posible, emplear el uso de calculadoras en linea para resolver de forma mas exacta los sistemas de ecuaciones
-
 Referencias:
 
 - Teorema de superposición. (s. f.). Recuperado 22 de diciembre de 2021, de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm
